@@ -202,4 +202,4 @@ while hp > 0:
                 print("             Fim de jogo")
             elif decf_floresta == "atacar":
                 print("O jogador decide encarar o desafio final dessa jornada de frente, se tornando um herói ou cavando sua própria cova.")
-                print("")
+                print("sla")
